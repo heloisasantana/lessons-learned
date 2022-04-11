@@ -5,6 +5,13 @@ body {
    border: 5px solid black;
 }
 
+header {
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: burlywood;
+    line-height: 100px;
+}
+
 #cabecalho {
     top: 0;
     position: fixed;
