@@ -1,8 +1,9 @@
 body {
    background-color: rgb(253, 251, 251);
    margin: 20px;
-   padding: 50px;
+   padding: 180px;
    border: 5px solid black;
+   width: 700px;
 }
 
 header {
@@ -15,14 +16,37 @@ header {
 #cabecalho {
     top: 0;
     position: fixed;
-   }
+}
 
 #minha_foto {
     margin-top: 60px;
+    margin-left: 70px; 
 }
 
 table {
     width: 350px;
+    border: 2px solid orange;
+}
+
+.lado-esquerdo {
+    float: left;
+    display: inline;
+    width: 300px;
+    padding: 15px;
+    border: 2px solid orange;
+}
+
+.lado-direito {
+    float:right;
+    display: inline;
+    width: 300px;
+    padding: 15px;
+    border: 2px solid orange;
+}
+
+footer {
+    text-align: end;
+    margin-top: 350px;
 }
 
 
