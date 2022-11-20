@@ -1,5 +1,7 @@
 # Projeto Lessons Learned
 
+Desenvolvido por Heloísa Santana da Silva.
+
 <a href="https://heloisasantana.github.io/lessons-learned/">Acesse aqui o projeto</a>
 
 Esse foi o primeiro projeto desenvolvido no curso de Desenvolvimento Web da Trybe. Nele foram dados os passos iniciais de aprendizado de como montar uma página HTML estática e CSS simples.
