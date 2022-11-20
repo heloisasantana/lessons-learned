@@ -2,9 +2,11 @@
 
 Desenvolvido por Heloísa Santana da Silva.
 
-<a href="https://heloisasantana.github.io/lessons-learned/">Acesse aqui o projeto</a>
+<h3><a href="https://heloisasantana.github.io/lessons-learned/"> > Acesse aqui o projeto < </a></h3>
 
-Esse foi o primeiro projeto desenvolvido no curso de Desenvolvimento Web da Trybe. Nele foram dados os passos iniciais de aprendizado de como montar uma página HTML estática e CSS simples.
+<h3>Descrição:</h3>
+
+Esse foi o primeiro projeto desenvolvido no curso de Desenvolvimento Web da Trybe. Nele foram dados os passos iniciais no aprendizado da montagem de uma página HTML estática e de uma estilizção CSS simples.
 
 <h3>Preview:</h3>
 
