@@ -1,16 +1,17 @@
-# :construction: README customizado em construção ! :construction:
+# Projeto Lessons Learned
 
-<a href="https://heloisasantana.github.io/lessons-learned/">Acesse meu projeto</a>
+<a href="https://heloisasantana.github.io/lessons-learned/">Acesse aqui o projeto</a>
 
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+Esse foi o primeiro projeto desenvolvido no curso de Desenvolvimento Web da Trybe. Nele foram dados os passos iniciais de aprendizado de como montar uma página HTML estática e CSS simples.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<h3>Preview:</h3>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h3>Tecnologias usadas:</h3>
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+### Contatos:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloisa-santana-da-silva/) [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:heloisasantana.silva@hotmail.com)
