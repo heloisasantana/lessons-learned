@@ -6,7 +6,7 @@ Desenvolvido por Heloísa Santana da Silva.
 
 <h3>Descrição:</h3>
 
-Esse foi o primeiro projeto desenvolvido no curso de Desenvolvimento Web da Trybe. Nele foram dados os passos iniciais no aprendizado da montagem de uma página HTML estática e de uma estilizção CSS simples.
+Esse foi o primeiro projeto desenvolvido no curso de Desenvolvimento Web da Trybe. Nele foram dados os passos iniciais no aprendizado da montagem de uma página HTML estática e de uma estilização CSS simples.
 
 <h3>Tecnologias usadas:</h3>
 <div style="display: inline_block">
